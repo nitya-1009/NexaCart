@@ -1,7 +1,7 @@
-# Amazon Clone 🛒
+# NexaCart 🛒
 > ⚠️ Educational project only — NOT affiliated with Amazon.com
 
-A frontend clone of Amazon built with HTML, CSS, and JavaScript.
+A frontend e-commerce of storefront built with HTML, CSS, and JavaScript.
 Built for learning purposes as part of my web development practice.
 
 ## Features
