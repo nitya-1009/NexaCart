@@ -1,12 +1,14 @@
-NexaCart 🛒
-⚠️ Educational project only — NOT affiliated with Amazon.com
+# NexaCart
 
-A frontend e-commerce of storefront built with HTML, CSS, and JavaScript. Built for learning purposes as part of my web development practice.
+⚠️ **Educational project only - NOT affiliated with Amazon.com**
 
-Features
-Homepage UI clone
-Responsive design
-Tech Stack
-HTML
-CSS
-JavaScript
+A frontend e-commerce storefront built with HTML, CSS, and JavaScript. Built for learning purposes as part of my web development practice.
+
+## Features
+- Homepage UI clone
+- Responsive design
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
