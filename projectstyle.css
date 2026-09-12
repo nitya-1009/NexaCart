@@ -17,7 +17,7 @@
 }
 
 .header-logo{
-    background-image: url("assets/images/amazonlogo.jpg");
+    
     background-size: contain;
     background-repeat: no-repeat;
     background-color: transparent;
@@ -232,7 +232,7 @@ ul a{
 
 }
 .footer-logo{
-    background-image: url("assets/images/logo.png");
+    
     background-size: contain;
     background-repeat: no-repeat;
     background-color: transparent;
@@ -278,3 +278,14 @@ ul a{
 .dark-mode .navbar{
     background-color:black;
 }
+
+.brand-text {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
